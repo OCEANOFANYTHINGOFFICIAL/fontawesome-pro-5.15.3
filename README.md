@@ -26,17 +26,17 @@ https://OCEANOFANYTHINGOFFICIAL.github.io/fontawesome-pro-5.15.3/js/all.min.js
 ## CSS
 ### `all.css`  jsdeliver Version (fast)
 ```
-https://cdn.jsdelivr.net/gh/OCEANOFANYTHINGOFFICIAL/fontawesome-pro-5.15.3/js/all.css
+https://cdn.jsdelivr.net/gh/OCEANOFANYTHINGOFFICIAL/fontawesome-pro-5.15.3/css/all.css
 ```
 ### `all.css` Github Pages Version (slow)
 ```
-https://OCEANOFANYTHINGOFFICIAL.github.io/fontawesome-pro-5.15.3/js/all.css
+https://OCEANOFANYTHINGOFFICIAL.github.io/fontawesome-pro-5.15.3/css/all.css
 ```
 ### `all.min.css`  jsdeliver Version (fast)
 ```
-https://cdn.jsdelivr.net/gh/OCEANOFANYTHINGOFFICIAL/fontawesome-pro-5.15.3/js/all.min.css
+https://cdn.jsdelivr.net/gh/OCEANOFANYTHINGOFFICIAL/fontawesome-pro-5.15.3/css/all.min.css
 ```
 ### `all.min.css` Github Pages Version (slow)
 ```
-https://OCEANOFANYTHINGOFFICIAL.github.io/fontawesome-pro-5.15.3/js/all.min.css
+https://OCEANOFANYTHINGOFFICIAL.github.io/fontawesome-pro-5.15.3/css/all.min.css
 ```
